@@ -1,4 +1,8 @@
+#!/usr/local/bin/python3
+# -*- coding: UTF-8 -*-
+
 import os
+import sys
 
 def getContent(filepath):
     path_pair = filepath.rsplit('/',maxsplit=1)
@@ -19,6 +23,6 @@ def listdir(path, deep=0,output="/Users/apple/PycharmProjects/test/getFL_buf.txt
             print(' ' * deep + '+ [' + item + '](' + item_path + ')', file=output)
 
       
-getContent('/Users/apple/Documents/Books/test')
+getContent('sys.argv[1])
 
 
