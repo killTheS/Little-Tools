@@ -9,7 +9,7 @@ Some simple tools.
 
 效果如图
 
-![IMG_6512](/Users/apple/Downloads/IMG_6512.JPEG)
+![IMG_6512](/images/IMG1_1.JPEG)
 
 注：
 
